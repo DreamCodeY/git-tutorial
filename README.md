@@ -2,3 +2,7 @@
 # Git自学
 
 - feature-A
+
+- fix-B
+
+- feature-C
